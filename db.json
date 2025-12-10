@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nafiz"
+    },
+    {
+      "id": 2,
+      "name": "Mahmud"
+    },
+    {
+      "id": 3,
+      "name": "Fardin"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Welcome to the News Portal",
+      "body": "This is a sample news article.",
+      "author_id": 1,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Great start!",
+          "user_id": 2,
+          "timestamp": "2025-01-01T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "901c",
+      "title": "Rashidul is a good boy",
+      "body": "hello ggg!",
+      "author_id": 1,
+      "comments": []
+    },
+    {
+      "id": "3d32",
+      "title": "Rashidul is a good boy",
+      "body": "hello ggg!",
+      "author_id": 1,
+      "comments": []
+    }
+  ]
+}
